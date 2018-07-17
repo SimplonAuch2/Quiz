@@ -1,7 +1,7 @@
 #### Projet-1 {Qui-Quizz}
 ===
-Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suivant :
-![Design](img/design_projet-1.png)
+Votre mission si vous l'acceptez (vous n'avez pas vraiment le choix enfait)  est de créer un quizz qui aura le design suivant :
+![Design](design_projet-1.png)
 # Instructions:
 + vous devrez faire le HTML & le CSS
 + ainsi que le JS
