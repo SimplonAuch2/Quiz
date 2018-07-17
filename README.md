@@ -1,18 +1,8 @@
-#### Projet-1 {Qui-Quizz}
-===
-Votre mission si vous l'acceptez (vous n'avez pas vraiment le choix enfait)  est de créer un quizz qui aura le design suivant :
+# Projet {Qui-Quizz}
+
+
+Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suivant :
 ![Design](design_projet-1.png)
-# Instructions:
-+ vous devrez faire le HTML & le CSS
-+ ainsi que le JS
-   	+ vous devrez manipuler les éléments du DOM (le fameux). 
-+ idéalement vous devrer utilisez grunt  et/ou Sass[facultatif]
-+ vous pourrez utiliser un framwork  __*bootstrap*__ ou __*foundation*__
-
-
-mettre un serveur nodeJs/MYSQL/EXPRESS en place
-
-
 
 ##  Règles:
 + le quizz devra être *reponsive* (donc s'adapter à toutes les résolutions)
@@ -21,7 +11,20 @@ mettre un serveur nodeJs/MYSQL/EXPRESS en place
 + dans le cas d'une bonne réponse (la case devient verte).
 + Dans le cas ou nous revenons sur une question précedante et que nous avions validé une réponse alors celle-ci est toujours ( soit verte, soit rouge)
 + vous pouvez allez plus loins si vous le souhaitez.
-+ Il n'y aura qu'__un dépôt git__
++ Il faut __un dépôt git__
+
+
+## Instructions:
++ vous devrez faire le HTML & le CSS
++ ainsi que le JS
+   	+ vous devrez manipuler les éléments du DOM (le fameux) avec jQuery. 
++ vous pourrez utiliser un framework  __*Bootstrap*__ ou __*Materialize*__
++ mettre en place un serveur ExpressJS
+    + mettre en place __*ValidatorJS*__ pour verifier ce qui est saisi dans le formulaire
++ utiliser MYSQL pour communiquer avec votre base de données (pour y accéder: localhost/phpmyadmin)
+
+
+
 
 > Que la force et internet soit avec vous.
 
