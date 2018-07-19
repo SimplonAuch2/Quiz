@@ -1,11 +1,12 @@
 # Projet {Qui-Quizz}
 
 
-Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suivant :
+Votre mission, si vous l'acceptez, est de créer un quizz qui aura le design suivant :
 ![Design](design_projet-1.png)
 
-##  Règles:
-+ le quizz devra être *reponsive* (donc s'adapter à toutes les résolutions)
+##  Règles :
+
++ le quizz devra être *responsive* (donc s'adapter à toutes les résolutions)
 + celui-ci aura 10 questions
 + dans le cas d'une mauvaise réponse (alors la case de la réponse devient rouge)
 + dans le cas d'une bonne réponse (la case devient verte).
@@ -14,7 +15,9 @@ Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suiv
 + Il faut __un dépôt git__
 
 
-## Instructions:
+
+## Instructions :
+
 + vous devrez faire le HTML & le CSS
 + ainsi que le JS
    	+ vous devrez manipuler les éléments du DOM (le fameux) avec jQuery. 
@@ -25,7 +28,6 @@ Votre mission si vous l'acceptez  est de créer un quizz qui aura le design suiv
 
 
 
-
 > Que la force et internet soit avec vous.
 
 par un Anonyme.
@@ -33,4 +35,21 @@ par un Anonyme.
 > Pour critiquer les gens il faut les connaître, et pour les connaître, il faut les aimer.
 
  par Coluche.
+
+
+
+## Seconde étape : enregistrer les réponses
+
++ Ajouter au quiz un champ qui permet de remplir le nom du joueur
++ Veillez à enregistrer le nom du joueur et ses réponses dans votre base de données MySQL
++ Veillez à lancer votre serveur sur le port numéro 3000 *uniquement* !
+
+
+
+## Troisième étape : statistiques
+
+Ajouter une page de statistiques séparée qui permet d'afficher :
++ le taux de réussite de chaque question
++ le taux de réussite de chaque joueur !
+
 
